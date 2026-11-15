@@ -253,8 +253,12 @@
         "SP": "both",
         "TO": "user"
       },
-      "visitedContinentsByPerson": {},
-      "visitedCountriesByPerson": {}
+      "visitedContinentsByPerson": {
+        "sa": "user"
+      },
+      "visitedCountriesByPerson": {
+        "br": "user"
+      }
     }
   }
 }
