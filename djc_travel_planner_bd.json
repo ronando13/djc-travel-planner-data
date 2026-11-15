@@ -260,7 +260,8 @@
         "br": "both",
         "ar": "both",
         "co": "both",
-        "py": "user"
+        "py": "both",
+        "uy": "user"
       }
     }
   }
