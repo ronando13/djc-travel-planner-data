@@ -1,6 +1,6 @@
 {
   "activeTab": "trips",
-  "activeTripId": "trip-1",
+  "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
     "RS": "both",
@@ -37,6 +37,114 @@
     "ar"
   ],
   "trips": [
+    {
+      "id": "trip-1794779434238",
+      "title": "Minas Gerais",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "type": "Cultural & Histórico",
+      "status": "Planejada",
+      "coverImage": "https://guiaviajarmelhor.com.br/wp-content/uploads/2025/11/Conheca-Minas-Gerais-de-Carro-1200x750.webp",
+      "activities": [],
+      "checklist": [
+        {
+          "category": "Documentos",
+          "text": "RG / CNH / Passaporte",
+          "checked": true
+        },
+        {
+          "category": "Documentos",
+          "text": "Cartões bancários & Dinheiro vivo",
+          "checked": true
+        },
+        {
+          "category": "Documentos",
+          "text": "Confirmação de hotéis e passagens aéreas",
+          "checked": false
+        },
+        {
+          "category": "Documentos",
+          "text": "Seguro Viagem & Carteira de Vacinação",
+          "checked": false
+        },
+        {
+          "category": "Roupas & Calçados",
+          "text": "Roupas íntimas & Meias",
+          "checked": true
+        },
+        {
+          "category": "Roupas & Calçados",
+          "text": "Camisetas e blusas leves",
+          "checked": false
+        },
+        {
+          "category": "Roupas & Calçados",
+          "text": "Casaco leve / Corta-vento",
+          "checked": false
+        },
+        {
+          "category": "Roupas & Calçados",
+          "text": "Tênis confortável para caminhadas",
+          "checked": true
+        },
+        {
+          "category": "Roupas & Calçados",
+          "text": "Calça jeans e shorts",
+          "checked": false
+        },
+        {
+          "category": "Eletrônicos & Cabos",
+          "text": "Carregador de celular & Powerbank",
+          "checked": true
+        },
+        {
+          "category": "Eletrônicos & Cabos",
+          "text": "Fones de ouvido",
+          "checked": true
+        },
+        {
+          "category": "Eletrônicos & Cabos",
+          "text": "Adaptador de tomada universal",
+          "checked": false
+        },
+        {
+          "category": "Higiene & Farmácia",
+          "text": "Escova e pasta de dentes",
+          "checked": true
+        },
+        {
+          "category": "Higiene & Farmácia",
+          "text": "Desodorante & Perfume",
+          "checked": true
+        },
+        {
+          "category": "Higiene & Farmácia",
+          "text": "Remédios de uso contínuo / Analgésicos",
+          "checked": false
+        },
+        {
+          "category": "Higiene & Farmácia",
+          "text": "Protetor solar & Repelente",
+          "checked": false
+        },
+        {
+          "category": "Praia & Passeio",
+          "text": "Óculos de sol & Boné/Chapéu",
+          "checked": false
+        },
+        {
+          "category": "Praia & Passeio",
+          "text": "Roupa de banho & Canga/Toalha",
+          "checked": false
+        },
+        {
+          "category": "Praia & Passeio",
+          "text": "Mochila pequena de ataque para passeios",
+          "checked": false
+        }
+      ],
+      "expenses": []
+    },
     {
       "id": "trip-1",
       "title": "Férias Tropicais em (exemplo)",
