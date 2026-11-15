@@ -254,14 +254,16 @@
         "TO": "user"
       },
       "visitedContinentsByPerson": {
-        "sa": "both"
+        "sa": "both",
+        "na": "user"
       },
       "visitedCountriesByPerson": {
         "br": "both",
         "ar": "both",
         "co": "both",
         "py": "both",
-        "uy": "user"
+        "uy": "both",
+        "do": "user"
       }
     }
   }
