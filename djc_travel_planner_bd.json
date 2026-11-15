@@ -236,7 +236,8 @@
     },
     "usr-mwieluzc": {
       "visitedStatesByPerson": {
-        "AL": "wife"
+        "AL": "both",
+        "BA": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
