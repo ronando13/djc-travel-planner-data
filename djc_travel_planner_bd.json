@@ -255,7 +255,7 @@
       },
       "visitedContinentsByPerson": {
         "sa": "both",
-        "na": "user"
+        "na": "both"
       },
       "visitedCountriesByPerson": {
         "br": "both",
@@ -263,7 +263,8 @@
         "co": "both",
         "py": "both",
         "uy": "both",
-        "do": "user"
+        "do": "both",
+        "cw": "user"
       }
     }
   }
