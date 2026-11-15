@@ -240,7 +240,8 @@
         "BA": "both",
         "DF": "both",
         "ES": "user",
-        "GO": "user"
+        "GO": "user",
+        "MA": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
