@@ -250,7 +250,8 @@
         "RN": "both",
         "RS": "both",
         "SC": "both",
-        "SP": "both"
+        "SP": "both",
+        "TO": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
