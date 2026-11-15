@@ -29,7 +29,8 @@
     "do": "both",
     "ar": "both",
     "cw": "both",
-    "co": "both"
+    "co": "both",
+    "py": "user"
   },
   "visitedStates": [
     "RS",
@@ -58,7 +59,8 @@
     "do",
     "ar",
     "cw",
-    "co"
+    "co",
+    "py"
   ],
   "trips": [
     {
