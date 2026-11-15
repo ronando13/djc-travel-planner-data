@@ -1,5 +1,5 @@
 {
-  "activeTab": "users",
+  "activeTab": "trips",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -175,7 +175,10 @@
       ],
       "expenses": [],
       "ownerId": "admin",
-      "sharedWith": []
+      "sharedWith": [
+        "usr-mwieluzc",
+        "usr-mwiempmh"
+      ]
     }
   ],
   "users": [
