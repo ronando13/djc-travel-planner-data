@@ -27,8 +27,8 @@
     "br": "both",
     "uy": "both",
     "do": "both",
-    "ar": "user",
-    "cw": "wife"
+    "ar": "wife",
+    "cw": "both"
   },
   "visitedStates": [
     "RS",
