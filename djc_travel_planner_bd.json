@@ -1,5 +1,5 @@
 {
-  "activeTab": "trips",
+  "activeTab": "maps",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -233,6 +233,13 @@
         "co": "both",
         "py": "user"
       }
+    },
+    "usr-mwieluzc": {
+      "visitedStatesByPerson": {
+        "AL": "user"
+      },
+      "visitedContinentsByPerson": {},
+      "visitedCountriesByPerson": {}
     }
   }
 }
