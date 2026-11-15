@@ -248,7 +248,8 @@
         "PE": "both",
         "RJ": "both",
         "RN": "both",
-        "RS": "user"
+        "RS": "both",
+        "SC": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
