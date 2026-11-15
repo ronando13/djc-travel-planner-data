@@ -15,7 +15,8 @@
     "PE": "both",
     "RJ": "both",
     "RN": "both",
-    "TO": "user"
+    "TO": "user",
+    "ES": "user"
   },
   "visitedContinentsByPerson": {
     "sa": "both",
@@ -40,7 +41,8 @@
     "PE",
     "RJ",
     "RN",
-    "TO"
+    "TO",
+    "ES"
   ],
   "visitedContinents": [
     "sa",
