@@ -242,7 +242,8 @@
         "ES": "user",
         "GO": "user",
         "MA": "both",
-        "MS": "user"
+        "MS": "user",
+        "MG": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
