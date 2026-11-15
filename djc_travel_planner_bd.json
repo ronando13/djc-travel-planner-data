@@ -241,7 +241,8 @@
         "DF": "both",
         "ES": "user",
         "GO": "user",
-        "MA": "user"
+        "MA": "both",
+        "MS": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
