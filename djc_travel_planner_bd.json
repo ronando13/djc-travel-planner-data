@@ -1,5 +1,5 @@
 {
-  "activeTab": "checklist",
+  "activeTab": "users",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -173,7 +173,55 @@
           "checked": false
         }
       ],
-      "expenses": []
+      "expenses": [],
+      "ownerId": "admin",
+      "sharedWith": []
     }
-  ]
+  ],
+  "users": [
+    {
+      "id": "usr-mwieluzc",
+      "name": "Ronando M Flores",
+      "username": "ronando",
+      "password": "Lindinha.1",
+      "active": true,
+      "createdAt": "2026-11-15T22:26:10.584Z"
+    }
+  ],
+  "userMaps": {
+    "admin": {
+      "visitedStatesByPerson": {
+        "RS": "both",
+        "SC": "both",
+        "BA": "both",
+        "SP": "both",
+        "MS": "user",
+        "AL": "both",
+        "MA": "both",
+        "MG": "user",
+        "PR": "both",
+        "PE": "both",
+        "RJ": "both",
+        "RN": "both",
+        "TO": "user",
+        "ES": "user",
+        "DF": "both",
+        "CE": "both",
+        "GO": "user"
+      },
+      "visitedContinentsByPerson": {
+        "sa": "both",
+        "na": "both"
+      },
+      "visitedCountriesByPerson": {
+        "br": "both",
+        "uy": "both",
+        "do": "both",
+        "ar": "both",
+        "cw": "both",
+        "co": "both",
+        "py": "user"
+      }
+    }
+  }
 }
