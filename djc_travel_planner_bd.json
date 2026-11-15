@@ -245,7 +245,8 @@
         "MS": "user",
         "MG": "user",
         "PR": "both",
-        "PE": "user"
+        "PE": "both",
+        "RJ": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
