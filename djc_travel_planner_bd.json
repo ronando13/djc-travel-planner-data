@@ -243,7 +243,8 @@
         "GO": "user",
         "MA": "both",
         "MS": "user",
-        "MG": "user"
+        "MG": "user",
+        "PR": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
