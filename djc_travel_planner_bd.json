@@ -18,7 +18,8 @@
     "TO": "user",
     "ES": "user",
     "DF": "both",
-    "CE": "both"
+    "CE": "both",
+    "GO": "user"
   },
   "visitedContinentsByPerson": {
     "sa": "both",
@@ -49,7 +50,8 @@
     "TO",
     "ES",
     "DF",
-    "CE"
+    "CE",
+    "GO"
   ],
   "visitedContinents": [
     "sa",
