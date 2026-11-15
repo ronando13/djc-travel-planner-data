@@ -237,7 +237,8 @@
     "usr-mwieluzc": {
       "visitedStatesByPerson": {
         "AL": "both",
-        "BA": "user"
+        "BA": "both",
+        "DF": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
