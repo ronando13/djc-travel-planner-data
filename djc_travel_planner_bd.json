@@ -239,7 +239,8 @@
         "AL": "both",
         "BA": "both",
         "DF": "both",
-        "ES": "user"
+        "ES": "user",
+        "GO": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
