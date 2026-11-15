@@ -1,5 +1,5 @@
 {
-  "activeTab": "maps",
+  "activeTab": "checklist",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -80,7 +80,7 @@
         {
           "category": "Documentos",
           "text": "RG / CNH / Passaporte",
-          "checked": true
+          "checked": false
         },
         {
           "category": "Documentos",
