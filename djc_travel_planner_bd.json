@@ -238,7 +238,8 @@
       "visitedStatesByPerson": {
         "AL": "both",
         "BA": "both",
-        "DF": "user"
+        "DF": "both",
+        "ES": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
