@@ -29,7 +29,7 @@
     "do": "both",
     "ar": "both",
     "cw": "both",
-    "co": "user"
+    "co": "both"
   },
   "visitedStates": [
     "RS",
