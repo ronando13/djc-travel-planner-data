@@ -1,5 +1,5 @@
 {
-  "activeTab": "dashboard",
+  "activeTab": "trips",
   "activeTripId": "trip-1",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -39,7 +39,7 @@
   "trips": [
     {
       "id": "trip-1",
-      "title": "Férias Tropicais em Florianópolis",
+      "title": "Férias Tropicais em (exemplo)",
       "startDate": "2026-11-15",
       "endDate": "2026-11-22",
       "type": "Praia & Lazer",
@@ -189,40 +189,40 @@
           "id": "exp-1",
           "description": "Passagens Aéreas Ida e Volta",
           "category": "Transporte (Avião)",
-          "estimated": 950.0,
-          "actual": 880.0,
+          "estimated": 950,
+          "actual": 880,
           "payment": "Cartão de Crédito"
         },
         {
           "id": "exp-2",
           "description": "Pousada 7 diárias c/ café",
           "category": "Hospedagem",
-          "estimated": 2400.0,
-          "actual": 2300.0,
+          "estimated": 2400,
+          "actual": 2300,
           "payment": "PIX"
         },
         {
           "id": "exp-3",
           "description": "Locação de Carro / Uber",
           "category": "Transporte (Uber / Táxi / Metrô)",
-          "estimated": 500.0,
-          "actual": 420.0,
+          "estimated": 500,
+          "actual": 420,
           "payment": "Cartão de Crédito"
         },
         {
           "id": "exp-4",
           "description": "Passeio de Barco Ilha do Campeche",
           "category": "Passeios & Ingressos",
-          "estimated": 360.0,
-          "actual": 360.0,
+          "estimated": 360,
+          "actual": 360,
           "payment": "PIX"
         },
         {
           "id": "exp-5",
           "description": "Restaurantes e Frutos do Mar",
           "category": "Alimentação & Restaurantes",
-          "estimated": 1200.0,
-          "actual": 650.0,
+          "estimated": 1200,
+          "actual": 650,
           "payment": "Cartão de Crédito"
         }
       ]
