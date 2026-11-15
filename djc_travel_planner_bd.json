@@ -11,7 +11,8 @@
     "AL": "both",
     "MA": "both",
     "MG": "user",
-    "PR": "both"
+    "PR": "both",
+    "PE": "user"
   },
   "visitedContinentsByPerson": {
     "sa": "both",
@@ -32,7 +33,8 @@
     "AL",
     "MA",
     "MG",
-    "PR"
+    "PR",
+    "PE"
   ],
   "visitedContinents": [
     "sa",
