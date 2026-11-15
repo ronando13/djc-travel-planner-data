@@ -186,6 +186,14 @@
       "password": "Lindinha.1",
       "active": true,
       "createdAt": "2026-11-15T22:26:10.584Z"
+    },
+    {
+      "id": "usr-mwiempmh",
+      "name": "Lisiane S Q Flores",
+      "username": "lisiane",
+      "password": "Lindinha.1",
+      "active": true,
+      "createdAt": "2026-11-15T22:26:50.297Z"
     }
   ],
   "userMaps": {
