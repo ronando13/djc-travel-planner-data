@@ -258,7 +258,8 @@
       },
       "visitedCountriesByPerson": {
         "br": "both",
-        "ar": "user"
+        "ar": "both",
+        "co": "user"
       }
     }
   }
