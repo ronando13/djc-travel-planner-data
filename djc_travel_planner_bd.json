@@ -1,5 +1,5 @@
 {
-  "activeTab": "dashboard",
+  "activeTab": "maps",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -7,7 +7,8 @@
     "SC": "both",
     "BA": "both",
     "SP": "both",
-    "MS": "user"
+    "MS": "user",
+    "AL": "user"
   },
   "visitedContinentsByPerson": {
     "sa": "both",
@@ -24,7 +25,8 @@
     "SC",
     "BA",
     "SP",
-    "MS"
+    "MS",
+    "AL"
   ],
   "visitedContinents": [
     "sa",
