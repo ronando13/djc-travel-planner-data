@@ -1,5 +1,5 @@
 {
-  "activeTab": "itinerary",
+  "activeTab": "checklist",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -116,7 +116,7 @@
         {
           "category": "Documentos",
           "text": "Cartões bancários & Dinheiro vivo",
-          "checked": false
+          "checked": true
         },
         {
           "category": "Documentos",
