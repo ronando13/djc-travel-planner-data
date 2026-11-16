@@ -309,7 +309,8 @@
         "MA": "both",
         "PR": "both",
         "PE": "both",
-        "RJ": "both"
+        "RJ": "both",
+        "RN": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
