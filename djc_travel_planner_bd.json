@@ -313,7 +313,7 @@
         "RN": "both",
         "RS": "both",
         "SC": "both",
-        "SP": "user"
+        "SP": "both"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
