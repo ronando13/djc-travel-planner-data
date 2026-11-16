@@ -322,7 +322,7 @@
         "br": "both",
         "co": "both",
         "py": "both",
-        "uy": "user"
+        "uy": "both"
       }
     }
   }
