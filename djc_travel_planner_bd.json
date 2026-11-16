@@ -302,7 +302,8 @@
     },
     "usr-mwiempmh": {
       "visitedStatesByPerson": {
-        "AL": "both"
+        "AL": "both",
+        "BA": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
