@@ -1,5 +1,5 @@
 {
-  "activeTab": "itinerary",
+  "activeTab": "attachments",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -220,7 +220,23 @@
         "usr-mwieluzc",
         "usr-mwiempmh"
       ],
-      "attachments": [],
+      "attachments": [
+        {
+          "id": "att-mwilik6ygwcj1",
+          "category": "hospedagem",
+          "title": "Casa dos Meninos B&B",
+          "note": "",
+          "date": "2026-11-19",
+          "code": "",
+          "linkId": "",
+          "name": "Booking.com_ Confirmação bh.pdf",
+          "mime": "application/pdf",
+          "size": 57270,
+          "addedAt": "2026-11-16T01:39:36.226Z",
+          "cloudPath": "anexos/att-mwilik6ygwcj1.pdf",
+          "syncedCloud": true
+        }
+      ],
       "lodgings": []
     }
   ],
