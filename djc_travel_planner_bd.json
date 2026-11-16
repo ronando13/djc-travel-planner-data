@@ -316,10 +316,10 @@
         "SP": "both"
       },
       "visitedContinentsByPerson": {
-        "sa": "wife"
+        "sa": "both"
       },
       "visitedCountriesByPerson": {
-        "br": "wife"
+        "br": "both"
       }
     }
   }
