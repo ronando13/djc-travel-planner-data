@@ -1,5 +1,5 @@
 {
-  "activeTab": "trips",
+  "activeTab": "itinerary",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -75,7 +75,18 @@
       "type": "Cultural & Histórico",
       "status": "Planejada",
       "coverImage": "https://guiaviajarmelhor.com.br/wp-content/uploads/2025/11/Conheca-Minas-Gerais-de-Carro-1200x750.webp",
-      "activities": [],
+      "activities": [
+        {
+          "id": "act-1794789714727",
+          "day": 1,
+          "time": "16:00",
+          "title": "Saída para Aeroporto POA",
+          "location": "",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
+        }
+      ],
       "checklist": [
         {
           "category": "Documentos",
