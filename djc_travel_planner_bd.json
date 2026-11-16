@@ -306,7 +306,8 @@
         "BA": "both",
         "CE": "both",
         "DF": "both",
-        "MA": "both"
+        "MA": "both",
+        "PR": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
