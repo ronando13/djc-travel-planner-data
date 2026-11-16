@@ -311,7 +311,7 @@
         "PE": "both",
         "RJ": "both",
         "RN": "both",
-        "RS": "user"
+        "RS": "both"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
