@@ -1,5 +1,5 @@
 {
-  "activeTab": "checklist",
+  "activeTab": "maps",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -301,7 +301,9 @@
       }
     },
     "usr-mwiempmh": {
-      "visitedStatesByPerson": {},
+      "visitedStatesByPerson": {
+        "AL": "user"
+      },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
     }
