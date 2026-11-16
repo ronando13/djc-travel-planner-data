@@ -1,5 +1,5 @@
 {
-  "activeTab": "attachments",
+  "activeTab": "budget",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -214,7 +214,16 @@
           "checked": false
         }
       ],
-      "expenses": [],
+      "expenses": [
+        {
+          "id": "exp-1794793467141",
+          "description": "Casa dos Meninos B&B",
+          "category": "Hospedagem",
+          "estimated": 1656,
+          "actual": 0,
+          "payment": "Cartão de Crédito"
+        }
+      ],
       "ownerId": "admin",
       "sharedWith": [
         "usr-mwieluzc",
