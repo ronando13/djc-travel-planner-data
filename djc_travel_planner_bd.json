@@ -320,7 +320,7 @@
       },
       "visitedCountriesByPerson": {
         "br": "both",
-        "co": "user"
+        "co": "both"
       }
     }
   }
