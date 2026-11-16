@@ -105,6 +105,16 @@
           "category": "Transporte / Chegada",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1794792715858",
+          "day": 1,
+          "time": "20:30",
+          "title": "Uber para Hotel",
+          "location": "BH",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
