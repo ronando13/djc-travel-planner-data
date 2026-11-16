@@ -308,7 +308,8 @@
         "DF": "both",
         "MA": "both",
         "PR": "both",
-        "PE": "both"
+        "PE": "both",
+        "RJ": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
