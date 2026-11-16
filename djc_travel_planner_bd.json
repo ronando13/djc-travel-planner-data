@@ -95,6 +95,16 @@
           "category": "Passeio / Atração",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1794789828020",
+          "day": 1,
+          "time": "20:00",
+          "title": "Aeroporto BH",
+          "location": "",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
