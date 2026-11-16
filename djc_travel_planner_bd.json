@@ -321,7 +321,7 @@
       "visitedCountriesByPerson": {
         "br": "both",
         "co": "both",
-        "py": "user"
+        "py": "both"
       }
     }
   }
