@@ -325,7 +325,7 @@
         "py": "both",
         "uy": "both",
         "do": "both",
-        "cw": "user"
+        "cw": "both"
       }
     }
   }
