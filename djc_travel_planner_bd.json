@@ -312,7 +312,8 @@
         "RJ": "both",
         "RN": "both",
         "RS": "both",
-        "SC": "both"
+        "SC": "both",
+        "SP": "user"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
