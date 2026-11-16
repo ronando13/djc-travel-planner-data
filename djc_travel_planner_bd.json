@@ -316,13 +316,15 @@
         "SP": "both"
       },
       "visitedContinentsByPerson": {
-        "sa": "both"
+        "sa": "both",
+        "na": "user"
       },
       "visitedCountriesByPerson": {
         "br": "both",
         "co": "both",
         "py": "both",
-        "uy": "both"
+        "uy": "both",
+        "do": "user"
       }
     }
   }
