@@ -237,7 +237,18 @@
           "syncedCloud": true
         }
       ],
-      "lodgings": []
+      "lodgings": [
+        {
+          "id": "lodg-mwilmrxsbycnn",
+          "name": "Casa dos Meninos B&B",
+          "address": "89 Rua do Aleijadinho Casa dos Meninos, Ouro Preto, CEP 35400-000, Brasil",
+          "checkIn": "2026-11-19",
+          "checkOut": "2026-11-22",
+          "confirmation": "6038549219",
+          "phone": "31 99442 6966",
+          "notes": ""
+        }
+      ]
     }
   ],
   "users": [
