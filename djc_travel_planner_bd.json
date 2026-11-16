@@ -304,7 +304,7 @@
       "visitedStatesByPerson": {
         "AL": "both",
         "BA": "both",
-        "CE": "user"
+        "CE": "both"
       },
       "visitedContinentsByPerson": {},
       "visitedCountriesByPerson": {}
