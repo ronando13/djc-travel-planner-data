@@ -281,9 +281,10 @@
       "id": "usr-mwm9sbwf",
       "name": "Adriano Quadros",
       "username": "adriano",
-      "password": "59j2tpqb",
+      "password": "59j2tpqb2",
       "active": true,
-      "createdAt": "2026-11-18T15:22:19.071Z"
+      "createdAt": "2026-11-18T15:22:19.071Z",
+      "passwordUpdatedAt": "2026-11-18T15:24:00.331Z"
     }
   ],
   "userMaps": {
