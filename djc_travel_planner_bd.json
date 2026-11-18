@@ -285,14 +285,6 @@
       "active": true,
       "createdAt": "2026-11-18T15:22:19.071Z",
       "passwordUpdatedAt": "2026-11-18T15:24:00.331Z"
-    },
-    {
-      "id": "usr-mwmbbkq5",
-      "name": "teste",
-      "username": "teste",
-      "password": "testeteste",
-      "active": true,
-      "createdAt": "2026-11-18T16:05:16.589Z"
     }
   ],
   "userMaps": {
