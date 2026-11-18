@@ -1,5 +1,5 @@
 {
-  "activeTab": "budget",
+  "activeTab": "users",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -276,6 +276,14 @@
       "password": "Lindinha.1",
       "active": true,
       "createdAt": "2026-11-15T22:26:50.297Z"
+    },
+    {
+      "id": "usr-mwm9sbwf",
+      "name": "Adriano Quadros",
+      "username": "adriano",
+      "password": "59j2tpqb",
+      "active": true,
+      "createdAt": "2026-11-18T15:22:19.071Z"
     }
   ],
   "userMaps": {
