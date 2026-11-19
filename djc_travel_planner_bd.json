@@ -298,7 +298,11 @@
       "passwordUpdatedAt": "2026-11-18T15:24:00.331Z",
       "accessPeriod": "7d",
       "accessExpiresAt": "2026-11-26T01:14:19.068Z",
-      "accessUpdatedAt": "2026-11-19T01:14:19.068Z"
+      "accessUpdatedAt": "2026-11-19T01:14:19.068Z",
+      "shareWith": [
+        "usr-mwieluzc",
+        "usr-mwiempmh"
+      ]
     }
   ],
   "userMaps": {
