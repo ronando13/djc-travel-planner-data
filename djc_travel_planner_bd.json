@@ -267,7 +267,11 @@
       "username": "ronando",
       "password": "Lindinha.1",
       "active": true,
-      "createdAt": "2026-11-15T22:26:10.584Z"
+      "createdAt": "2026-11-15T22:26:10.584Z",
+      "shareWith": [
+        "usr-mwiempmh",
+        "usr-mwm9sbwf"
+      ]
     },
     {
       "id": "usr-mwiempmh",
