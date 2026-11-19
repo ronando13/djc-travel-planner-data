@@ -84,7 +84,7 @@
           "location": "Casa",
           "category": "Transporte / Chegada",
           "notes": "Pegar Uber",
-          "done": true
+          "done": false
         },
         {
           "id": "act-1794789748478",
