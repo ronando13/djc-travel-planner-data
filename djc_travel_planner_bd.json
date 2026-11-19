@@ -1,5 +1,5 @@
 {
-  "activeTab": "itinerary",
+  "activeTab": "checklist",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -211,6 +211,11 @@
         {
           "category": "Praia & Passeio",
           "text": "Mochila pequena de ataque para passeios",
+          "checked": false
+        },
+        {
+          "category": "Documentos",
+          "text": "Receita médica internacional",
           "checked": false
         }
       ],
