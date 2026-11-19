@@ -275,7 +275,10 @@
       "username": "lisiane",
       "password": "Lindinha.1",
       "active": true,
-      "createdAt": "2026-11-15T22:26:50.297Z"
+      "createdAt": "2026-11-15T22:26:50.297Z",
+      "accessPeriod": "7d",
+      "accessExpiresAt": "2026-11-26T01:14:39.207Z",
+      "accessUpdatedAt": "2026-11-19T01:14:39.207Z"
     },
     {
       "id": "usr-mwm9sbwf",
