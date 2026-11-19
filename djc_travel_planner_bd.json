@@ -1,5 +1,5 @@
 {
-  "activeTab": "dashboard",
+  "activeTab": "itinerary",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -79,7 +79,7 @@
         {
           "id": "act-1794789714727",
           "day": 1,
-          "time": "16:00",
+          "time": "15:00",
           "title": "Saída para Aeroporto POA",
           "location": "Casa",
           "category": "Transporte / Chegada",
