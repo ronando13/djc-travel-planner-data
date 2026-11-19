@@ -1,5 +1,5 @@
 {
-  "activeTab": "checklist",
+  "activeTab": "users",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -305,8 +305,7 @@
       "accessExpiresAt": "2026-11-26T01:14:19.068Z",
       "accessUpdatedAt": "2026-11-19T01:14:19.068Z",
       "shareWith": [
-        "usr-mwieluzc",
-        "usr-mwiempmh"
+        "usr-mwieluzc"
       ]
     }
   ],
