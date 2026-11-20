@@ -1,5 +1,5 @@
 {
-  "activeTab": "budget",
+  "activeTab": "itinerary",
   "activeTripId": "trip-1795210794888",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -79,7 +79,18 @@
       "type": "Praia & Lazer",
       "status": "Planejada",
       "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
-      "activities": [],
+      "activities": [
+        {
+          "id": "act-1795211391092",
+          "day": 1,
+          "time": "",
+          "title": "Saída para Aeroporto POA",
+          "location": "Sapucaia do Sul",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
+        }
+      ],
       "checklist": [
         {
           "category": "Documentos",
