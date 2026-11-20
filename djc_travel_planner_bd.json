@@ -185,6 +185,14 @@
           "estimated": 488.94,
           "actual": 488.94,
           "payment": "Cartão de Crédito"
+        },
+        {
+          "id": "exp-1795210956633",
+          "description": "Chip de internet Airalo (2G p/ pessoa)",
+          "category": "Outros",
+          "estimated": 96.76,
+          "actual": 96.76,
+          "payment": "Cartão de Crédito"
         }
       ]
     },
