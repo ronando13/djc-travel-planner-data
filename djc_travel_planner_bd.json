@@ -1,7 +1,7 @@
 {
-  "activeTab": "users",
+  "activeTab": "itinerary",
   "activeTripId": "trip-1794779434238",
-  "selectedItineraryDay": 1,
+  "selectedItineraryDay": 2,
   "visitedStatesByPerson": {
     "RS": "both",
     "SC": "both",
@@ -113,6 +113,16 @@
           "title": "Uber para Hotel",
           "location": "BH",
           "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
+        },
+        {
+          "id": "act-1795209879965",
+          "day": 2,
+          "time": "08:00",
+          "title": "Café da manhã",
+          "location": "Pousada",
+          "category": "Alimentação",
           "notes": "",
           "done": false
         }
