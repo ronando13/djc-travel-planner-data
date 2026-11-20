@@ -189,6 +189,16 @@
           "category": "Alimentação",
           "notes": "96.803 COP (R$132,91) Almoço em Cartagena",
           "done": false
+        },
+        {
+          "id": "act-1795212119275",
+          "day": 2,
+          "time": "",
+          "title": "Drogu Pura",
+          "location": "Farmácia",
+          "category": "Alimentação",
+          "notes": "7.500 COP (R$10,30) Compra água Wise",
+          "done": false
         }
       ],
       "checklist": [
