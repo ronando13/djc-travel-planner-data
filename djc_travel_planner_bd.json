@@ -225,6 +225,14 @@
           "estimated": 2313.06,
           "actual": 2313.06,
           "payment": "Cartão de Débito"
+        },
+        {
+          "id": "exp-1795211182992",
+          "description": "Passeios",
+          "category": "Passeios & Ingressos",
+          "estimated": 2187.13,
+          "actual": 2187.13,
+          "payment": "Cartão de Débito"
         }
       ]
     },
