@@ -1,5 +1,5 @@
 {
-  "activeTab": "trips",
+  "activeTab": "attachments",
   "activeTripId": "trip-1795210794888",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -531,6 +531,21 @@
           "size": 287135,
           "addedAt": "2026-11-20T22:19:50.392Z",
           "cloudPath": "anexos/att-mwpjkxflwagg1.pdf",
+          "syncedCloud": true
+        },
+        {
+          "id": "att-mwpjp7q4wwpwm",
+          "category": "hospedagem",
+          "title": "Cartagena Hotel",
+          "note": "",
+          "date": "2025-03-30",
+          "code": "",
+          "linkId": "",
+          "name": "Cartagena_hoteis.com-egti-NEH-A14-3P6Q.pdf",
+          "mime": "application/pdf",
+          "size": 82922,
+          "addedAt": "2026-11-20T22:23:10.142Z",
+          "cloudPath": "anexos/att-mwpjp7q4wwpwm.pdf",
           "syncedCloud": true
         }
       ],
