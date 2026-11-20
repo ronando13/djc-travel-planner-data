@@ -547,6 +547,21 @@
           "addedAt": "2026-11-20T22:23:10.142Z",
           "cloudPath": "anexos/att-mwpjp7q4wwpwm.pdf",
           "syncedCloud": true
+        },
+        {
+          "id": "att-mwpjq3ry4n0e6",
+          "category": "hospedagem",
+          "title": "San Andres Hotel",
+          "note": "",
+          "date": "2025-03-30",
+          "code": "",
+          "linkId": "",
+          "name": "SanAndres_hoteis.com-72061340993744.pdf",
+          "mime": "application/pdf",
+          "size": 83514,
+          "addedAt": "2026-11-20T22:23:51.674Z",
+          "cloudPath": "anexos/att-mwpjq3ry4n0e6.pdf",
+          "syncedCloud": true
         }
       ],
       "lodgings": []
