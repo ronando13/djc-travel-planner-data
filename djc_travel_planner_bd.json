@@ -201,6 +201,14 @@
           "estimated": 3694.75,
           "actual": 3694.75,
           "payment": "Cartão de Crédito"
+        },
+        {
+          "id": "exp-1795211023998",
+          "description": "Hotel San Andres",
+          "category": "Hospedagem",
+          "estimated": 4247.74,
+          "actual": 4247.74,
+          "payment": "Cartão de Crédito"
         }
       ]
     },
