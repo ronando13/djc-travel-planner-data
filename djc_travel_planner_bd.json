@@ -209,6 +209,14 @@
           "estimated": 4247.74,
           "actual": 4247.74,
           "payment": "Cartão de Crédito"
+        },
+        {
+          "id": "exp-1795211068862",
+          "description": "Uber/Taxi (Translados)",
+          "category": "Transporte (Uber / Táxi / Metrô)",
+          "estimated": 230.18,
+          "actual": 230.18,
+          "payment": "Cartão de Crédito"
         }
       ]
     },
