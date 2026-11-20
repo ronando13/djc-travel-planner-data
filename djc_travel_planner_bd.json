@@ -487,6 +487,51 @@
           "addedAt": "2026-11-20T22:18:32.147Z",
           "cloudPath": "anexos/att-mwpjj80wndub2.zip",
           "syncedCloud": false
+        },
+        {
+          "id": "att-mwpjkuw0kzvl0",
+          "category": "passagens",
+          "title": "Passagens aéreas (1)",
+          "note": "",
+          "date": "2024-11-30",
+          "code": "",
+          "linkId": "",
+          "name": "Captura de tela 2025-03-31 090428.png",
+          "mime": "image/jpeg",
+          "size": 28107,
+          "addedAt": "2026-11-20T22:19:46.637Z",
+          "cloudPath": "anexos/att-mwpjkuw0kzvl0.png",
+          "syncedCloud": true
+        },
+        {
+          "id": "att-mwpjkw28sbdya",
+          "category": "passagens",
+          "title": "Passagens aéreas (2)",
+          "note": "",
+          "date": "2024-11-30",
+          "code": "",
+          "linkId": "",
+          "name": "LA9572347QSNP-9fa9f83f-c923-459d-bbe0-8cc70a7ae085-cuv.pdf",
+          "mime": "application/pdf",
+          "size": 163048,
+          "addedAt": "2026-11-20T22:19:48.417Z",
+          "cloudPath": "anexos/att-mwpjkw28sbdya.pdf",
+          "syncedCloud": true
+        },
+        {
+          "id": "att-mwpjkxflwagg1",
+          "category": "passagens",
+          "title": "Passagens aéreas (3)",
+          "note": "",
+          "date": "2024-11-30",
+          "code": "",
+          "linkId": "",
+          "name": "recibo_upgrade_bogota_LA9577394ARJH-c0d0637e-ea2c-437a-86e5-b548c9652100-cuv.pdf",
+          "mime": "application/pdf",
+          "size": 287135,
+          "addedAt": "2026-11-20T22:19:50.392Z",
+          "cloudPath": "anexos/att-mwpjkxflwagg1.pdf",
+          "syncedCloud": true
         }
       ],
       "lodgings": []
