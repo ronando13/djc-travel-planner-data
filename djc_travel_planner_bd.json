@@ -193,6 +193,14 @@
           "estimated": 96.76,
           "actual": 96.76,
           "payment": "Cartão de Crédito"
+        },
+        {
+          "id": "exp-1795210990041",
+          "description": "Hotel - CArtagena",
+          "category": "Hospedagem",
+          "estimated": 3694.75,
+          "actual": 3694.75,
+          "payment": "Cartão de Crédito"
         }
       ]
     },
