@@ -129,6 +129,16 @@
           "category": "Transporte / Chegada",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795211751469",
+          "day": 1,
+          "time": "",
+          "title": "Café Juan Valdez",
+          "location": "Cartagena/Hotel",
+          "category": "Alimentação",
+          "notes": "Valor de 33.600 COP (R$ 46,13 cotação do dia) Wise\nCafé(2) + Palito queijo(2)",
+          "done": false
         }
       ],
       "checklist": [
