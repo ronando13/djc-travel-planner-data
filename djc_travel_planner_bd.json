@@ -229,6 +229,16 @@
           "category": "Passeio / Atração",
           "notes": "760.000 COP (R$1043,48) Compra de passeio + almoço + Openbar",
           "done": false
+        },
+        {
+          "id": "act-1795212434052",
+          "day": 2,
+          "time": "",
+          "title": "Drogu Pura",
+          "location": "Farmácia",
+          "category": "Passeio / Atração",
+          "notes": "$ 1,18 (R$6,72) Compra de água Nomad",
+          "done": false
         }
       ],
       "checklist": [
