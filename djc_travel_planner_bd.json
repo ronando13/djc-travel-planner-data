@@ -125,6 +125,16 @@
           "category": "Alimentação",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795209911699",
+          "day": 2,
+          "time": "09:30",
+          "title": "Caminhada na cidade",
+          "location": "Ouro Preto",
+          "category": "Passeio / Atração",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
