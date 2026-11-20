@@ -219,6 +219,16 @@
           "category": "Outro",
           "notes": "Saque de 227.500 COP (R$312,36) Tarifa 22.500 + \"Doação de 5.000\"",
           "done": false
+        },
+        {
+          "id": "act-1795212364708",
+          "day": 2,
+          "time": "",
+          "title": "Passeio LUXURI",
+          "location": "Cartagena",
+          "category": "Passeio / Atração",
+          "notes": "760.000 COP (R$1043,48) Compra de passeio + almoço + Openbar",
+          "done": false
         }
       ],
       "checklist": [
