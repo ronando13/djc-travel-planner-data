@@ -1,5 +1,5 @@
 {
-  "activeTab": "trips",
+  "activeTab": "budget",
   "activeTripId": "trip-1795210794888",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -177,7 +177,16 @@
           "checked": false
         }
       ],
-      "expenses": []
+      "expenses": [
+        {
+          "id": "exp-1795210853910",
+          "description": "Passagem Aérea - Compra com milhas",
+          "category": "Transporte (Avião)",
+          "estimated": 0,
+          "actual": 488.94,
+          "payment": "Cartão de Crédito"
+        }
+      ]
     },
     {
       "id": "trip-1794779434238",
