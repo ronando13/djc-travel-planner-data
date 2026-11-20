@@ -472,6 +472,21 @@
           "addedAt": "2026-11-20T22:10:43.829Z",
           "cloudPath": "anexos/att-mwpj97t6mtjcb.pdf",
           "syncedCloud": true
+        },
+        {
+          "id": "att-mwpjj80wndub2",
+          "category": "outros",
+          "title": "Seguro Viagem",
+          "note": "",
+          "date": "2025-03-30",
+          "code": "",
+          "linkId": "",
+          "name": "Seguro Viagem.zip",
+          "mime": "application/zip",
+          "size": 1934175,
+          "addedAt": "2026-11-20T22:18:32.147Z",
+          "cloudPath": "anexos/att-mwpjj80wndub2.zip",
+          "syncedCloud": false
         }
       ],
       "lodgings": []
