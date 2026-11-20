@@ -233,6 +233,14 @@
           "estimated": 2187.13,
           "actual": 2187.13,
           "payment": "Cartão de Débito"
+        },
+        {
+          "id": "exp-1795211225898",
+          "description": "Taxas/Tarifas/Aeroporto",
+          "category": "Outros",
+          "estimated": 512.25,
+          "actual": 521.25,
+          "payment": "Cartão de Débito"
         }
       ]
     },
