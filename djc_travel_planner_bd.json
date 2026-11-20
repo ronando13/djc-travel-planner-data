@@ -119,6 +119,16 @@
           "category": "Transporte / Chegada",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795211631182",
+          "day": 1,
+          "time": "",
+          "title": "Uber - Aeroporto - Cartagena",
+          "location": "Cartagena",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
