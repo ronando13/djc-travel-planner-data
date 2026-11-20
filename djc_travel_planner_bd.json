@@ -89,6 +89,16 @@
           "category": "Transporte / Chegada",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795211423691",
+          "day": 1,
+          "time": "",
+          "title": "Voo",
+          "location": "",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
