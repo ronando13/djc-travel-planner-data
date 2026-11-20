@@ -139,6 +139,16 @@
           "category": "Alimentação",
           "notes": "Valor de 33.600 COP (R$ 46,13 cotação do dia) Wise\nCafé(2) + Palito queijo(2)",
           "done": false
+        },
+        {
+          "id": "act-1795211843763",
+          "day": 1,
+          "time": "",
+          "title": "Drogu Pura",
+          "location": "Farmácia",
+          "category": "Compras / Livre",
+          "notes": "12.800 COP (R$17,57) Gilete + Água",
+          "done": false
         }
       ],
       "checklist": [
