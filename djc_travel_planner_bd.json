@@ -241,6 +241,14 @@
           "estimated": 512.25,
           "actual": 512.25,
           "payment": "Cartão de Débito"
+        },
+        {
+          "id": "exp-1795211269817",
+          "description": "Compras diversas",
+          "category": "Compras & Lembranças",
+          "estimated": 538.92,
+          "actual": 538.92,
+          "payment": "Cartão de Débito"
         }
       ]
     },
