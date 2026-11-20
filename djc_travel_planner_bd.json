@@ -1,5 +1,5 @@
 {
-  "activeTab": "itinerary",
+  "activeTab": "attachments",
   "activeTripId": "trip-1795210794888",
   "selectedItineraryDay": 2,
   "visitedStatesByPerson": {
@@ -411,7 +411,25 @@
           "actual": 538.92,
           "payment": "Cartão de Débito"
         }
-      ]
+      ],
+      "attachments": [
+        {
+          "id": "att-mwpj6l4hg488u",
+          "category": "outros",
+          "title": "Planilha usada na viagem",
+          "note": "Contem orçamento e gastos da viagem",
+          "date": "2025-04-13",
+          "code": "",
+          "linkId": "",
+          "name": "ORCAMENTO.xlsx",
+          "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "size": 30938,
+          "addedAt": "2026-11-20T22:08:40.655Z",
+          "cloudPath": "anexos/att-mwpj6l4hg488u.xlsx",
+          "syncedCloud": true
+        }
+      ],
+      "lodgings": []
     },
     {
       "id": "trip-1794779434238",
