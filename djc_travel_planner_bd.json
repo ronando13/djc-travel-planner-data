@@ -199,6 +199,16 @@
           "category": "Alimentação",
           "notes": "7.500 COP (R$10,30) Compra água Wise",
           "done": false
+        },
+        {
+          "id": "act-1795212185143",
+          "day": 2,
+          "time": "",
+          "title": "El Cabildo Gastromar",
+          "location": "Restaurante",
+          "category": "Alimentação",
+          "notes": "51.024 (R$70.06) Jantar",
+          "done": false
         }
       ],
       "checklist": [
