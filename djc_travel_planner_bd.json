@@ -179,6 +179,16 @@
           "category": "Alimentação",
           "notes": "5.500 COP (R$7,55) Compra de água Wise",
           "done": false
+        },
+        {
+          "id": "act-1795212053850",
+          "day": 2,
+          "time": "",
+          "title": "El Cabildo Gastromar",
+          "location": "Restaurante",
+          "category": "Alimentação",
+          "notes": "96.803 COP (R$132,91) Almoço em Cartagena",
+          "done": false
         }
       ],
       "checklist": [
