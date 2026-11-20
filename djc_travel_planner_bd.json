@@ -169,6 +169,16 @@
           "category": "Alimentação",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795211991733",
+          "day": 2,
+          "time": "",
+          "title": "Farmatodo",
+          "location": "Farmácia",
+          "category": "Alimentação",
+          "notes": "5.500 COP (R$7,55) Compra de água Wise",
+          "done": false
         }
       ],
       "checklist": [
