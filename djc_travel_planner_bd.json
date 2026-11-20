@@ -149,6 +149,16 @@
           "category": "Compras / Livre",
           "notes": "12.800 COP (R$17,57) Gilete + Água",
           "done": false
+        },
+        {
+          "id": "act-1795211899687",
+          "day": 1,
+          "time": "",
+          "title": "Restaurante - Pavia Bod",
+          "location": "Cartagena",
+          "category": "Alimentação",
+          "notes": "114.400 COP (R$157,07) Jantar",
+          "done": false
         }
       ],
       "checklist": [
