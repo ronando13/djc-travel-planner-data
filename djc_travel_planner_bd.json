@@ -209,6 +209,16 @@
           "category": "Alimentação",
           "notes": "51.024 (R$70.06) Jantar",
           "done": false
+        },
+        {
+          "id": "act-1795212272180",
+          "day": 2,
+          "time": "",
+          "title": "Saque",
+          "location": "Caixa Eletronico",
+          "category": "Outro",
+          "notes": "Saque de 227.500 COP (R$312,36) Tarifa 22.500 + \"Doação de 5.000\"",
+          "done": false
         }
       ],
       "checklist": [
