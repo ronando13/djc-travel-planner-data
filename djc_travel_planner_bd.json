@@ -217,6 +217,14 @@
           "estimated": 230.18,
           "actual": 230.18,
           "payment": "Cartão de Crédito"
+        },
+        {
+          "id": "exp-1795211108815",
+          "description": "Alimentação",
+          "category": "Alimentação & Restaurantes",
+          "estimated": 2313.06,
+          "actual": 2313.06,
+          "payment": "Cartão de Débito"
         }
       ]
     },
