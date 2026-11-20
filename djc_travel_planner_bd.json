@@ -1,7 +1,7 @@
 {
   "activeTab": "itinerary",
   "activeTripId": "trip-1795210794888",
-  "selectedItineraryDay": 1,
+  "selectedItineraryDay": 2,
   "visitedStatesByPerson": {
     "RS": "both",
     "SC": "both",
@@ -158,6 +158,16 @@
           "location": "Cartagena",
           "category": "Alimentação",
           "notes": "114.400 COP (R$157,07) Jantar",
+          "done": false
+        },
+        {
+          "id": "act-1795211940056",
+          "day": 2,
+          "time": "",
+          "title": "Café da manhã",
+          "location": "Hotel",
+          "category": "Alimentação",
+          "notes": "",
           "done": false
         }
       ],
