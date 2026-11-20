@@ -99,6 +99,16 @@
           "category": "Transporte / Chegada",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795211545848",
+          "day": 1,
+          "time": "",
+          "title": "Voo Guarulhos - Bogota",
+          "location": "GUA - BGT",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
