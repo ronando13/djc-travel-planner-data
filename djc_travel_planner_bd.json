@@ -109,6 +109,16 @@
           "category": "Transporte / Chegada",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795211581068",
+          "day": 1,
+          "time": "",
+          "title": "Voo Bogota - Cartagena",
+          "location": "BGT - CTG",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
