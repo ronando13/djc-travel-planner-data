@@ -1,5 +1,5 @@
 {
-  "activeTab": "dashboard",
+  "activeTab": "trips",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 1,
   "visitedStatesByPerson": {
@@ -568,7 +568,7 @@
     },
     {
       "id": "trip-1794779434238",
-      "title": "Minas Gerais",
+      "title": "Minas Gerais - Nov/2026",
       "startDate": "2026-11-19",
       "endDate": "2026-11-22",
       "type": "Cultural & Histórico",
