@@ -89,7 +89,7 @@
         {
           "category": "Documentos",
           "text": "Cartões bancários & Dinheiro vivo",
-          "checked": true
+          "checked": false
         },
         {
           "category": "Documentos",
@@ -104,7 +104,7 @@
         {
           "category": "Roupas & Calçados",
           "text": "Roupas íntimas & Meias",
-          "checked": true
+          "checked": false
         },
         {
           "category": "Roupas & Calçados",
