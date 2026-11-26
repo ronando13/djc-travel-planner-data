@@ -129,7 +129,7 @@
         {
           "category": "Eletrônicos & Cabos",
           "text": "Carregador de celular & Powerbank",
-          "checked": true
+          "checked": false
         },
         {
           "category": "Eletrônicos & Cabos",
@@ -144,12 +144,12 @@
         {
           "category": "Higiene & Farmácia",
           "text": "Escova e pasta de dentes",
-          "checked": true
+          "checked": false
         },
         {
           "category": "Higiene & Farmácia",
           "text": "Desodorante & Perfume",
-          "checked": true
+          "checked": false
         },
         {
           "category": "Higiene & Farmácia",
