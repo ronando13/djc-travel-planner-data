@@ -1,5 +1,5 @@
 {
-  "activeTab": "itinerary",
+  "activeTab": "maps",
   "activeTripId": "trip-1794779434238",
   "selectedItineraryDay": 4,
   "visitedStatesByPerson": {
@@ -1014,7 +1014,7 @@
         "GO": "user",
         "MA": "both",
         "MS": "user",
-        "MG": "user",
+        "MG": "wife",
         "PR": "both",
         "PE": "both",
         "RJ": "both",
