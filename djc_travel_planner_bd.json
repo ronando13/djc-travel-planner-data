@@ -1,7 +1,7 @@
 {
-  "activeTab": "dashboard",
+  "activeTab": "itinerary",
   "activeTripId": "trip-1794779434238",
-  "selectedItineraryDay": 1,
+  "selectedItineraryDay": 4,
   "visitedStatesByPerson": {
     "RS": "both",
     "SC": "both",
@@ -744,6 +744,16 @@
           "title": "Caminhada na cidade",
           "location": "Ouro Preto",
           "category": "Passeio / Atração",
+          "notes": "",
+          "done": false
+        },
+        {
+          "id": "act-1795834837820",
+          "day": 4,
+          "time": "20:50",
+          "title": "Partida de Confins para POA",
+          "location": "",
+          "category": "Transporte / Chegada",
           "notes": "",
           "done": false
         }
