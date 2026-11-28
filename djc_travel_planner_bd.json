@@ -756,6 +756,16 @@
           "category": "Transporte / Chegada",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795834864199",
+          "day": 4,
+          "time": "23:00",
+          "title": "Chegada no Aeroporto de POA",
+          "location": "",
+          "category": "Transporte / Chegada",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
