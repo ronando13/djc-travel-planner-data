@@ -766,6 +766,16 @@
           "category": "Transporte / Chegada",
           "notes": "",
           "done": false
+        },
+        {
+          "id": "act-1795834910043",
+          "day": 4,
+          "time": "12:00",
+          "title": "Chekout Pousada",
+          "location": "Ouro Preto",
+          "category": "Hospedagem",
+          "notes": "",
+          "done": false
         }
       ],
       "checklist": [
